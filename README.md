@@ -1,5 +1,5 @@
 ## 💫 About Me:
-I'm student of KLE technological university.<br>I'm am interested in data science, AI-ML  ,operating systems, computer networks.<br>I'm currently learning DBMS.<br>hobbies playing table-tennis, badminton , chess.<br><br>
+I'm student of KLE technological university.<br>I'm am interested in data science, AI-ML  ,operating systems, computer networks.<br>I'm currently learning DBMS.<br>hobbies playing table-tennis, badminton , chess.<br>#naodayan.<br><br>
 
 
 ## 🌐 Socials:
